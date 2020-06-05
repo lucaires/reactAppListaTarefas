@@ -11,4 +11,5 @@
 ![alt text](https://i.ibb.co/0h5kM2M/Screenshot-20200605-011337.png)
 
 # Tecnologias utilizadas
-React Native utilizando expo.
+ * React Native
+ * Expo
