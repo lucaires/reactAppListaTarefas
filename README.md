@@ -22,10 +22,10 @@ expo-cli -V
 
 Run the command to start the project:
 ``` bash
-expo init **project_name**
+expo init project_name
 ```
 
-Access the `backend` directory and install package dependencies using `npm` or `yarn`:
+Access the `app` directory and install package dependencies using `npm` or `yarn`:
 ``` bash
 npm install
 ```
@@ -33,7 +33,7 @@ npm install
 yarn install
 ```
 
-Run the `dev` script:
+Run the project:
 ``` bash
 npm start
 ```
