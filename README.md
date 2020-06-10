@@ -41,11 +41,11 @@ npm start
 yarn start
 ```
 
-#### You can add tasks by typing or task name and clicking ADD TAREFA.
+* You can add tasks by typing or task name and clicking ADD TAREFA.
 
 ![alt text](https://i.ibb.co/Gkhg3tV/Screenshot-20200605-011348.png)
 
-#### And to remove the task, just click on it.
+* And to remove the task, just click on it.
 
 ![alt text](https://i.ibb.co/0h5kM2M/Screenshot-20200605-011337.png)
 
